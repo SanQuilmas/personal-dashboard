@@ -3,6 +3,8 @@
 
 ![Screenshot of main view](./resources/main-page.png)
 
+A web-based tool for managing and reviewing prospect data, with filterable views, role-based status tracking, and a modern UI. Built with a Java backend and a TypeScript/React frontend, containerized via Podman.
+
 ## Needed Dependencies
 
 * Podman
